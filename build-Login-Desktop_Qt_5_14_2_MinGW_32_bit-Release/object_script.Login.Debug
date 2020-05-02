@@ -1,0 +1,12 @@
+debug/accountdialog.o
+debug/dialog.o
+debug/main.o
+debug/login.o
+debug/mainwindow.o
+debug/signupdialog.o
+debug/transactions.o
+debug/moc_accountdialog.o
+debug/moc_dialog.o
+debug/moc_login.o
+debug/moc_mainwindow.o
+debug/moc_signupdialog.o

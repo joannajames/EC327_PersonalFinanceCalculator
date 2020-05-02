@@ -1,0 +1,12 @@
+release/accountdialog.o
+release/dialog.o
+release/main.o
+release/login.o
+release/mainwindow.o
+release/signupdialog.o
+release/transactions.o
+release/moc_accountdialog.o
+release/moc_dialog.o
+release/moc_login.o
+release/moc_mainwindow.o
+release/moc_signupdialog.o
